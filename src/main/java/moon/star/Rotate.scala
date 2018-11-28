@@ -1,26 +1,26 @@
 package moon.star
 
 class Rotate {
-  /*def rotate(nums:Array[Char],k:Int):Array[Char]={
-    /*var y:Char=O
-    var x=nums(0)
-    var a=0
-    var m=0
-    if(k>nums.length) m=k%nums.length else m=k
-    for(i<-0 until nums.length){
-     if(a+m<nums.length){
-       y=x
-       x=nums(a+m)
-       nums(a+m)=y
-       a=a+m
-     }else{
-       a=m-nums.length+a
-       y=x
-       x=nums(a)
-       nums(a)=y
-       a=a+m
-     }
+  def rotate(nums:Array[Int],k:Int):Array[Int]={
+    for(j<-0 until k){
+      var a=0
+      var b=0
+      var x=nums(0)
+      var y=0
+      for(i<-nums.indices){
+        if(a+1<nums.length){
+          y=nums(a+1)
+          nums(a+1)=x
+          x=y
+          a=a+1
+        }else{
+          y=nums(1-nums.length+a)
+          nums(1-nums.length+a)=x
+          x=y
+          a=1-nums.length+a-1
+        }
+      }
     }
-    nums*/
-  }*/
+    nums
+  }
 }
