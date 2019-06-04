@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class IsAnagram {
   def isAnagram(s:String,t:String):Boolean={

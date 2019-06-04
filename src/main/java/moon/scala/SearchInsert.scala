@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class SearchInsert {
   def searchInsert(nums: Array[Int], target: Int):Int={

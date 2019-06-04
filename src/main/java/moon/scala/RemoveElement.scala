@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class RemoveElement {
   def removeElement(nums:Array[Int],`val`:Int):Int={

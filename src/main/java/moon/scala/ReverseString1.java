@@ -1,4 +1,4 @@
-package moon.star;
+package moon.scala;
 
 public class ReverseString1 {
     public String reverseString(String s) {

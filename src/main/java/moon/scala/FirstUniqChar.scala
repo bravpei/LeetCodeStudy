@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class FirstUniqChar {
     def firstUniqChar(s:String):Int={

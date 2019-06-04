@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class ListNode(var _x:Int=0){
   var x:Int=_x

@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class LongestCommonPrefix {
   def longestCommonPrefix(strs:Array[String]): String ={

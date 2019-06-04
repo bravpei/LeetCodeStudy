@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class MoveZeroes {
   def moveZeroes(nums:Array[Int]):Array[Int]={

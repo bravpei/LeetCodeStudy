@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class IsPalindrome {
   def isPalindrome(x:Int):Boolean={

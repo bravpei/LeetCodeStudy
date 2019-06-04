@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class RemoveDuplicates {
   def removeDuplicates(nums:Array[Int]):Int={

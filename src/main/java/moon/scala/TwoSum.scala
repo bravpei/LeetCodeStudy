@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class TwoSum {
   def twoSum(nums:Array[Int],target:Int):Array[Int]= {

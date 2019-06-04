@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class ContainsDuplicate {
   def containsDuplicate(nums:Array[Int]):Boolean={

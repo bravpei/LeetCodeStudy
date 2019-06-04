@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class StrStr {
   def strStr(haystack: String, needle: String):Int={

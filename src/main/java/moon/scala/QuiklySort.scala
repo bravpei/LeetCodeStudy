@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class QuiklySort {
   def partition(a: Array[Int],lo:Int,li:Int):Int={

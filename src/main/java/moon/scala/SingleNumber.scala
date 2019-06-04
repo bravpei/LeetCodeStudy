@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class SingleNumber {
 def singleNumber(nums:Array[Int]):Int={

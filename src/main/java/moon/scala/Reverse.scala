@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class Reverse {
   def reverse(x: Int): Int = {

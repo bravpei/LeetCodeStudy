@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class Rotate {
   def rotate(nums:Array[Int],k:Int):Array[Int]={

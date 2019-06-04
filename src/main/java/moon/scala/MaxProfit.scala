@@ -1,4 +1,4 @@
-package moon.star
+package moon.scala
 
 class MaxProfit {
   def maxProfit(prices:Array[Int]): Int ={
