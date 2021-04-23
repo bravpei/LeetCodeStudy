@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86f5a69f-55bf-496b-a3e5-c904e31f104e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/firstuniqchar/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/isanagram/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/ispalindrome/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/reverse/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/reversestring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/myatoi/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/strstr/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/ispalindrome/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/moon/java/ispalindrome/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="moon.java.rotate.Solution" />
       <module name="LeetCodeStudy" />
@@ -99,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="moon.java.removeduplicates.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moon.java.myatoi.Solution" />
       <module name="LeetCodeStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="moon.java.removeduplicates.*" />
+          <option name="PATTERN" value="moon.java.myatoi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,15 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Gradle.C:/Users/liupei/IdeaProjects/LeetCodeStudy" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +169,8 @@
       <workItem from="1618890634540" duration="3159000" />
       <workItem from="1618912020615" duration="1858000" />
       <workItem from="1619001510333" duration="5832000" />
-      <workItem from="1619056710912" duration="7214000" />
+      <workItem from="1619056710912" duration="12177000" />
+      <workItem from="1619080030764" duration="22144000" />
     </task>
     <servers />
   </component>
