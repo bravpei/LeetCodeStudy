@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86f5a69f-55bf-496b-a3e5-c904e31f104e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/myatoi/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/strstr/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/ispalindrome/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/moon/java/ispalindrome/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,13 +107,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,7 +169,8 @@
       <workItem from="1618912020615" duration="1858000" />
       <workItem from="1619001510333" duration="5832000" />
       <workItem from="1619056710912" duration="12177000" />
-      <workItem from="1619080030764" duration="22144000" />
+      <workItem from="1619080030764" duration="22987000" />
+      <workItem from="1619319396649" duration="364000" />
     </task>
     <servers />
   </component>
