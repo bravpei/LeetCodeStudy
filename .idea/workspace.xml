@@ -5,48 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86f5a69f-55bf-496b-a3e5-c904e31f104e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/linked/deletenode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/string/countandsay/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/string/longestcommonprefix/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/containsduplicate/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/array/containsduplicate/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/countandsay/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/firstuniqchar/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/string/firstuniqchar/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/intersect/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/array/intersect/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/isanagram/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/string/isanagram/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/ispalindrome/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/string/ispalindrome/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/maxprofit/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/array/maxprofit/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/movezeroes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/array/movezeroes/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/myatoi/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/string/myatoi/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/plusone/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/array/plusone/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/removeduplicates/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/array/removeduplicates/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/reverse/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/string/reverse/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/reversestring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/string/reversestring/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/rotate/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/array/rotate/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/singlenumber/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/array/singlenumber/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/strstr/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/string/strstr/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moon/java/primary/twosum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moon/java/primary/array/twosum/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/AddTwoNumbers2$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/AddTwoNumbers2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/FindMedianSortedArrays4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/LengthOfLongestSubstring3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/LongestPalindrome5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/TwoSum1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/containsduplicate/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/firstuniqchar/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/intersect/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/isanagram/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/ispalindrome/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/maxprofit/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/movezeroes/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/myatoi/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/plusone/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/removeduplicates/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/reverse/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/reversestring/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/rotate/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/singlenumber/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moon/java/twosum/Solution.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +35,7 @@
     </file-type-list>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1r6Pj9lFucoeIQpyZddu74x8ljI" />
   <component name="ProjectLevelVcsManager">
@@ -95,7 +55,20 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="moon.java.ispalindrome.Solution" />
       <module name="LeetCodeStudy" />
@@ -174,19 +147,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C:/Users/liupei/IdeaProjects/LeetCodeStudy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -208,11 +168,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Gradle.C:/Users/liupei/IdeaProjects/LeetCodeStudy" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +195,7 @@
       <workItem from="1619056710912" duration="12177000" />
       <workItem from="1619080030764" duration="22987000" />
       <workItem from="1619319396649" duration="6221000" />
+      <workItem from="1634614913316" duration="687000" />
     </task>
     <servers />
   </component>
