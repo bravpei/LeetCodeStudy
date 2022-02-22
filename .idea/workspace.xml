@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86f5a69f-55bf-496b-a3e5-c904e31f104e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/queue/NumIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/queue/NumSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/queue/OpenLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/src/test/java/queue/NumIslandsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primary-algorithm/primary-algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/stack/DailyTemperatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structure/data-structure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data-structure/data-structure.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +36,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -64,6 +58,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -251,6 +248,13 @@
       <workItem from="1636590815985" duration="3499000" />
       <workItem from="1636677070618" duration="3362000" />
       <workItem from="1637541660607" duration="3128000" />
+      <workItem from="1638751023844" duration="149000" />
+      <workItem from="1638751274369" duration="4381000" />
+      <workItem from="1639109141823" duration="11000" />
+      <workItem from="1644840609553" duration="2778000" />
+      <workItem from="1644892741080" duration="4000" />
+      <workItem from="1645012504146" duration="2709000" />
+      <workItem from="1645090020978" duration="11000" />
     </task>
     <servers />
   </component>
@@ -267,7 +271,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
