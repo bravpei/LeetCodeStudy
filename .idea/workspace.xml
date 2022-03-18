@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86f5a69f-55bf-496b-a3e5-c904e31f104e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/PivotIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/SearchInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/others/CanVisitAllRooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/others/UpdateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/ArrayPairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/FindDiagonalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/FindMaxConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/FindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/MinSubArrayLen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/Rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/SetZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/array/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/others/Generate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/others/GetRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/string/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/string/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/string/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/string/ReverseWords2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structure/target/classes/stack/InorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/data-structure/target/classes/stack/InorderTraversal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +83,7 @@
       <recent name="C:\Users\liupei0210\Documents\IdeaProjects\LeetCodeStudy\primary-algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InorderTraversal">
+  <component name="RunManager" selected="Application.ReverseWords2">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -84,12 +97,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FindDiagonalOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.FindDiagonalOrder" />
+      <module name="data-structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.InorderTraversal" />
       <module name="data-structure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinSubArrayLen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MinSubArrayLen" />
+      <module name="data-structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,94 +149,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queue.OpenLock" />
+    <configuration name="ReverseWords2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.ReverseWords2" />
       <module name="data-structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="queue.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="moon.java.ispalindrome.Solution" />
-      <module name="LeetCodeStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="moon.java.ispalindrome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="moon.java.primary.string.ispalindrome.Solution" />
-      <module name="LeetCodeStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="moon.java.primary.string.ispalindrome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="moon.java.primary.string.myatoi.Solution" />
-      <module name="LeetCodeStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="moon.java.primary.string.myatoi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="moon.java.primary.string.countandsay.Solution" />
-      <module name="LeetCodeStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="moon.java.primary.string.countandsay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumIslandsTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="queue" />
-      <option name="MAIN_CLASS_NAME" value="queue.NumIslandsTest" />
-      <option name="METHOD_NAME" value="solution" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseWords2" />
+        <item itemvalue="Application.MinSubArrayLen" />
+        <item itemvalue="Application.FindDiagonalOrder" />
         <item itemvalue="Application.InorderTraversal" />
         <item itemvalue="Application.NumSquares" />
-        <item itemvalue="Application.OpenLock" />
-        <item itemvalue="JUnit.NumIslandsTest.solution" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
