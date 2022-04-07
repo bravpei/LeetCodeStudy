@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86f5a69f-55bf-496b-a3e5-c904e31f104e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/src/main/java/stack/DailyTemperatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structure/data-structure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data-structure/data-structure.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data-structure/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +58,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -256,9 +255,6 @@
       <workItem from="1644892741080" duration="4000" />
       <workItem from="1645012504146" duration="2709000" />
       <workItem from="1645090020978" duration="11000" />
-      <workItem from="1645489299594" duration="77000" />
-      <workItem from="1646115750386" duration="483000" />
-      <workItem from="1646120661598" duration="642000" />
     </task>
     <servers />
   </component>
